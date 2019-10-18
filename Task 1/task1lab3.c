@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int main(){
-    int year, ind;
+    int year, ind; 
     float cost;
     year=2019;
     cost=20;
-    ind=1626;
+    ind=1626; //индейцы
 
     for (ind=1626; ind <= year; ++ind)
     {
